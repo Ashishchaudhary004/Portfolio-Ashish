@@ -185,7 +185,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://scontent.fdel3-4.fna.fbcdn.net/v/t39.30808-6/225037899_105136541870042_925720448815028344_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=K9zE8MxY_ucQ7kNvgG8BJjI&_nc_ht=scontent.fdel3-4.fna&_nc_gid=A3Slc_1irqTYJW04-NWLWqJ&oh=00_AYBCyhMu5SsBO8CC1GSZmwPuo-_T39XIFKVzLBvhZxduIg&oe=670B16C9",
+    img: "https://scontent.fdel3-4.fna.fbcdn.net/v/t39.30808-6/225037899_105136541870042_925720448815028344_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=CP3srB7RcKwQ7kNvgGWStOT&_nc_zt=23&_nc_ht=scontent.fdel3-4.fna&_nc_gid=AHCAMFnA15I5vI7N5YTFrJ4&oh=00_AYBXzqNsbiuAM7g6aIWb1ymN3ux_Ry78opF10HDIL2akGQ&oe=67153249",
     school: "Sarvoday Kisan Intermediate College",
     date: " Aug 2019 - Apr 2020",
     grade: "63.%",
@@ -194,7 +194,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://scontent.fdel3-4.fna.fbcdn.net/v/t39.30808-6/225037899_105136541870042_925720448815028344_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=K9zE8MxY_ucQ7kNvgG8BJjI&_nc_ht=scontent.fdel3-4.fna&_nc_gid=A3Slc_1irqTYJW04-NWLWqJ&oh=00_AYBCyhMu5SsBO8CC1GSZmwPuo-_T39XIFKVzLBvhZxduIg&oe=670B16C9",
+    img: "https://scontent.fdel3-4.fna.fbcdn.net/v/t39.30808-6/225037899_105136541870042_925720448815028344_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=CP3srB7RcKwQ7kNvgGWStOT&_nc_zt=23&_nc_ht=scontent.fdel3-4.fna&_nc_gid=AHCAMFnA15I5vI7N5YTFrJ4&oh=00_AYBXzqNsbiuAM7g6aIWb1ymN3ux_Ry78opF10HDIL2akGQ&oe=67153249",
     school: "Sarvoday Kisan Intermediate College",
     date: "Aug 2017 - Apr 2018",
     grade: "81%",
