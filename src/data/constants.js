@@ -29,11 +29,6 @@ export const skills = [
           "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       },
       {
-        name: "Angular Js",
-        image:
-          "https://camo.githubusercontent.com/8886130b3d8aba95dbdd7c4f9a41029606424cc06d1873c1ced87dd55a222fef/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667",
-      },
-      {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
       },
@@ -46,11 +41,6 @@ export const skills = [
         name: "JavaScript",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
-      },
-      {
-        name: "Bootstrap",
-        image:
-          "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
       {
         name: "Material UI",
@@ -80,26 +70,6 @@ export const skills = [
         name: "MongoDB",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-      },
-    ],
-  },
-  {
-    title: "DevOps",
-    skills: [
-      {
-        name: "AWS",
-        image:
-          "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
-      },
-      {
-        name: "Google Cloud",
-        image:
-          "https://static-00.iconduck.com/assets.00/google-cloud-platform-logo-icon-2048x1824-pg4wzspq.png",
-      },
-      {
-        name: "Docker",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
       },
     ],
   },
@@ -185,7 +155,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://scontent.fdel3-4.fna.fbcdn.net/v/t39.30808-6/225037899_105136541870042_925720448815028344_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=CP3srB7RcKwQ7kNvgGWStOT&_nc_zt=23&_nc_ht=scontent.fdel3-4.fna&_nc_gid=AHCAMFnA15I5vI7N5YTFrJ4&oh=00_AYBXzqNsbiuAM7g6aIWb1ymN3ux_Ry78opF10HDIL2akGQ&oe=67153249",
+   // img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fp%2FSarvodaya-Kisan-PG-College-Kauriram-Gorakhpur-100070318164642%2F&psig=AOvVaw1d2w76Jl7K-oignWA-q3iv&ust=1730900756895000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi-nvqpxYkDFQAAAAAdAAAAABAE",
     school: "Sarvoday Kisan Intermediate College",
     date: " Aug 2019 - Apr 2020",
     grade: "63.%",
@@ -194,7 +164,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://scontent.fdel3-4.fna.fbcdn.net/v/t39.30808-6/225037899_105136541870042_925720448815028344_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=CP3srB7RcKwQ7kNvgGWStOT&_nc_zt=23&_nc_ht=scontent.fdel3-4.fna&_nc_gid=AHCAMFnA15I5vI7N5YTFrJ4&oh=00_AYBXzqNsbiuAM7g6aIWb1ymN3ux_Ry78opF10HDIL2akGQ&oe=67153249",
+    //img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fp%2FSarvodaya-Kisan-PG-College-Kauriram-Gorakhpur-100070318164642%2F&psig=AOvVaw1d2w76Jl7K-oignWA-q3iv&ust=1730900756895000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi-nvqpxYkDFQAAAAAdAAAAABAE",
     school: "Sarvoday Kisan Intermediate College",
     date: "Aug 2017 - Apr 2018",
     grade: "81%",
